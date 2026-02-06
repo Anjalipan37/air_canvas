@@ -52,6 +52,7 @@ pip install -r requirements.txt
 4️⃣ Run the project
 py -3.11 src/main.py
 Make sure your webcam is connected 📷
+```
 
 🖐️ How It Works
 MediaPipe detects hand landmarks
