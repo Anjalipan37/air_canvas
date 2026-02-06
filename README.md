@@ -24,6 +24,7 @@ It uses **MediaPipe Hands** for hand tracking and **OpenCV** for real-time drawi
 ---
 
 ## 📁 Project Structure
+```
 air_canvas/
 │
 ├── src/
@@ -32,7 +33,7 @@ air_canvas/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
